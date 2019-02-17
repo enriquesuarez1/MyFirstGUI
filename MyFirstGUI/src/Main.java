@@ -10,7 +10,7 @@ public class Main {
 		MyComponent myComponent = new MyComponent(); //Calls the already prepared class to be used as an object here
 		mainPage.add(myComponent);//adds the "component" to de JFrame
 		
-		
+		//
 		//you don't draw on a frame, instead you draw on a canvas, which is called a JComponent
 		
 	}
